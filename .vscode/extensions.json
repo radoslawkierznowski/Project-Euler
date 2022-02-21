@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "michaelfromyeg.vscode-puzzle"
+        "michaelfromyeg.vscode-puzzle",
+        "ms-python.python"
     ]
 }
